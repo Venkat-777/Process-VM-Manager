@@ -1,11 +1,21 @@
 1. To run the program (ignore warnings):
+    a. compile basicManager.java: javac basicManager.java 
+    b. run the compiled code: java basicManager.java
+
+2. List of files in the zip:
+    a. basicManager.java - Has all source code
+    b. input.txt - Given input.txt file
+    c. output.txt - Generated output file
+    d. README.txt - this file
+
+3. To run the program (ignore warnings):
     **Note: To run the no-dp version please comment out the first FILENAMES array, 
             and uncomment the second one in VirtualMemoryManager.java.
 
     a. compile VirtualMemoryManager.java: javac VirtualMemoryManager.java 
     b. run the compiled code: java VirtualMemoryManager.java
 
-2. List of files in the zip:
+4. List of files in the zip:
     a. VirtualMemoryManager.java - Has all source code
     b. init-no-dp.txt - Given init file without demand paging
     c. init-dp.txt - Given init file with demand paging
